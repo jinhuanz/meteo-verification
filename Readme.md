@@ -25,7 +25,7 @@ output the scores of each staiton in *csv and print the scores for all stations 
 
 ## Installation
 
-Download source from http://git.thinkpage.cn/camellia/camellia-verification
+Download source 
 and run `python setup.py install`
 
 ## Usage
