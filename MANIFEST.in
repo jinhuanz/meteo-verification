@@ -1,0 +1,4 @@
+include verif/data/*
+include verif/doc/*
+include verif/tutorial/*
+include *.md
